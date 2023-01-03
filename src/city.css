@@ -1,0 +1,26 @@
+.MainCity {
+  color: white;
+  margin-top: -50px;
+  margin-left: -570px;
+  font-family: "Londrina Outline", cursive;
+}
+.city-info {
+  margin-left: 135px;
+  font-size: 22px;
+}
+#humidity {
+  margin-left: -200px;
+  letter-spacing: 1px;
+}
+
+#wind-speed {
+  margin-top: -46px;
+  margin-left: 200px;
+  letter-spacing: 1px;
+}
+
+#city-name {
+  font-size: 45px;
+  font-weight: bold;
+  color: black;
+}

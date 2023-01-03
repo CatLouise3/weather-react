@@ -1,0 +1,15 @@
+.Days {
+  margin-top: 100px;
+  font-family: "Kumar One Outline", cursive;
+  font-weight: bolder;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.WeeklyForecast {
+  color: white;
+  font-family: "Londrina Outline", cursive;
+  font-size: 30px;
+  margin-left: -20px;
+  letter-spacing: 1px;
+}

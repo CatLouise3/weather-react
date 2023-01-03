@@ -1,0 +1,17 @@
+.btn {
+  color: white;
+  background: #8364ad;
+  margin-top: -105px;
+  margin-left: -200px;
+}
+
+#search {
+  height: 40px;
+  width: 200px;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 3px;
+  display: block;
+  padding: 10px;
+  margin: 20px;
+}
