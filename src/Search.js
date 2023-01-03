@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./search.css";
 export default function Search(props) {
-  let [city, setCity] = useState(props.city);
+  let [, setCity] = useState(props.city);
   function handleSearch(event) {
     event.preventDefault();
   }

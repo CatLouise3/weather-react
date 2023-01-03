@@ -1,10 +1,8 @@
-import React, { useState } from "react";
-import Search from "./Search";
+import React from "react";
 
 import "./weather.css";
 
 export default function Weather(props) {
-  let [city, setCity] = useState(props.city);
   return (
     <div className="Weather">
       <div id="weather-info">
