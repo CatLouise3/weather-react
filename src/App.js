@@ -31,7 +31,7 @@ export default function App() {
         rel="noreferrer"
       >
         {" "}
-        Catherine
+        Cat
       </a>
     </div>
   );
