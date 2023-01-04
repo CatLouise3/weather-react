@@ -7,7 +7,7 @@ export default function GitLink() {
         href="https://github.com/CatLouise3/weather-react"
         class="git"
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
       >
         {" "}
         GitHub{" "}
@@ -17,7 +17,7 @@ export default function GitLink() {
         href="https://www.linkedin.com/in/catherine-mcfee-b96899126/"
         class="linkedIn"
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
       >
         {" "}
         Catherine
